@@ -1,0 +1,3 @@
+-hi this is frantix
+-all ai projects are open sourced 
+-distributed unmanipulated intelligence 
